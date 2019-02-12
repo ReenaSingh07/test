@@ -46,3 +46,6 @@ function func(){
    todo.push(item);
    addTodo();
 }
+
+addTodo();
+addDone();
